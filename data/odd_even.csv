@@ -1,0 +1,145 @@
+stock,metric,even_odd,value
+Atnarko,survival,even,0.12
+Birkenhead,survival,even,0.031
+Bowron,survival,even,0.157
+Chilko,survival,even,0.067
+Cultus,survival,even,0.049
+Early Stuart,survival,even,0.066
+Fennell,survival,even,0.085
+Gates,survival,even,0.109
+Great Central,survival,even,0.038
+Harrison,survival,even,0
+Late Stuart,survival,even,0.538
+Long,survival,even,-0.058
+Nadina,survival,even,0.397
+Owikeno,survival,even,0.037
+Portage,survival,even,-0.345
+Quesnel,survival,even,-0.17
+Raft,survival,even,-0.204
+Scotch,survival,even,0.228
+Seymour,survival,even,0.12
+Shuswap,survival,even,-0.098
+Sproat,survival,even,0.076
+Stellako,survival,even,0.395
+Washington,survival,even,0.154
+Weaver,survival,even,0.153
+Atnarko,survival,odd,-0.002
+Birkenhead,survival,odd,0.022
+Bowron,survival,odd,-0.132
+Chilko,survival,odd,0.089
+Cultus,survival,odd,0.084
+Early Stuart,survival,odd,-0.185
+Fennell,survival,odd,-0.21
+Gates,survival,odd,-0.201
+Great Central,survival,odd,-0.41
+Harrison,survival,odd,-0.21
+Late Stuart,survival,odd,-0.304
+Long,survival,odd,0.145
+Nadina,survival,odd,-0.388
+Owikeno,survival,odd,-0.098
+Portage,survival,odd,-0.049
+Quesnel,survival,odd,-0.403
+Raft,survival,odd,-0.323
+Scotch,survival,odd,-0.228
+Seymour,survival,odd,-0.243
+Shuswap,survival,odd,0.052
+Sproat,survival,odd,-0.082
+Stellako,survival,odd,-0.253
+Washington,survival,odd,-0.07
+Weaver,survival,odd,-0.208
+Atnarko,age,even,
+Birkenhead,age,even,-0.088005831
+Bowron,age,even,-0.032924319
+Chilko,age,even,-0.237618045
+Cultus,age,even,
+Early Stuart,age,even,0.159869285
+Fennell,age,even,-0.225922512
+Gates,age,even,0.060259031
+Great Central,age,even,
+Harrison,age,even,
+Late Stuart,age,even,-0.442843262
+Long,age,even,
+Nadina,age,even,0.179045887
+Owikeno,age,even,
+Portage,age,even,
+Quesnel,age,even,-0.265067095
+Raft,age,even,-0.216884403
+Scotch,age,even,-0.419867155
+Seymour,age,even,
+Shuswap,age,even,
+Sproat,age,even,
+Stellako,age,even,-0.395461265
+Washington,age,even,
+Weaver,age,even,-0.313542566
+Atnarko,age,odd,
+Birkenhead,age,odd,0.088005831
+Bowron,age,odd,0.032924319
+Chilko,age,odd,0.237618045
+Cultus,age,odd,
+Early Stuart,age,odd,-0.159869285
+Fennell,age,odd,0.225922512
+Gates,age,odd,-0.060259031
+Great Central,age,odd,
+Harrison,age,odd,
+Late Stuart,age,odd,0.442843262
+Long,age,odd,
+Nadina,age,odd,-0.179045887
+Owikeno,age,odd,
+Portage,age,odd,
+Quesnel,age,odd,0.265067095
+Raft,age,odd,0.216884403
+Scotch,age,odd,0.116529132
+Seymour,age,odd,
+Shuswap,age,odd,
+Sproat,age,odd,
+Stellako,age,odd,0.395461265
+Washington,age,odd,
+Weaver,age,odd,0.313542566
+Atnarko,length,even,
+Birkenhead,length,even,0.565447397
+Bowron,length,even,0.32400004
+Chilko,length,even,0.226282211
+Cultus,length,even,0.511725735
+Early Stuart,length,even,0.314185937
+Fennell,length,even,0.481113369
+Gates,length,even,0.389282142
+Great Central,length,even,
+Harrison,length,even,
+Late Stuart,length,even,0.771670531
+Long,length,even,
+Nadina,length,even,0.562731613
+Owikeno,length,even,
+Portage,length,even,0.40355625
+Quesnel,length,even,0.71918013
+Raft,length,even,0.300298494
+Scotch,length,even,
+Seymour,length,even,0.397385333
+Shuswap,length,even,0.22042059
+Sproat,length,even,
+Stellako,length,even,
+Washington,length,even,
+Weaver,length,even,0.349672718
+Atnarko,length,odd,
+Birkenhead,length,odd,-0.603199003
+Bowron,length,odd,-1.060918323
+Chilko,length,odd,-0.281171968
+Cultus,length,odd,-0.261286843
+Early Stuart,length,odd,-0.211698185
+Fennell,length,odd,-0.459955651
+Gates,length,odd,-0.384772461
+Great Central,length,odd,
+Harrison,length,odd,
+Late Stuart,length,odd,-0.549334557
+Long,length,odd,
+Nadina,length,odd,-0.448546251
+Owikeno,length,odd,
+Portage,length,odd,-0.591208438
+Quesnel,length,odd,-0.540225419
+Raft,length,odd,-0.48047759
+Scotch,length,odd,
+Seymour,length,odd,-0.426068444
+Shuswap,length,odd,-0.610768087
+Sproat,length,odd,
+Stellako,length,odd,
+Washington,length,odd,
+Weaver,length,odd,-0.472618825
